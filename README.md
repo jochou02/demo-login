@@ -1,5 +1,4 @@
-
-NOTES ABOUT THIS LOGIN:
+TODO:
 
 -Need to send email verification to users registering  
 -Need to implement forgot password  
