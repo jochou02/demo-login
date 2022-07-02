@@ -1,11 +1,11 @@
 
 NOTES ABOUT THIS LOGIN:
 
--Need to send email verification to users registering
--Need to implement forgot password
--Need to implement email validation (ucsd.edu)
--Need to change password set requirements within Firebase
--Need to change firebase-config IDs
+-Need to send email verification to users registering  
+-Need to implement forgot password  
+-Need to implement email validation (ucsd.edu)  
+-Need to change password set requirements within Firebase  
+-Need to change firebase-config IDs  
 
 *******************************************************************
 
